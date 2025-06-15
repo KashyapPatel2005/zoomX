@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>Pro Connect</h2>
+                    <h2>ZoomX</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>

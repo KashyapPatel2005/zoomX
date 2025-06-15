@@ -136,7 +136,7 @@ nav {
 }
 
 .navHeader h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: bold;
   color: #ff9839;
 }
@@ -184,7 +184,7 @@ nav {
 .landingMainContainer div[role='button'] {
   margin-top: 2rem;
   display: inline-block;
-  background-color: #ff9839;
+  background-color:#FF9839;
   color: #fff;
   padding: 0.75rem 1.5rem;
   border-radius: 12px;

@@ -1,3 +1,26 @@
+.InitialContainer button{
+  margin-left: 1rem;    
+  display: inline-block;
+  background-color:#FF9839;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border: none;
+}
+.InitialContainer h2{
+    margin-bottom: 1rem;
+}
+
+.InitialContainer {
+ margin: 2rem;;
+}
+ 
+
+
+
 .meetVideoContainer {
     position: relative;
     height: 100vh;
