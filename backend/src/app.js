@@ -21,7 +21,10 @@ const io = connectToSocket(server);
 
 
 app.set("port", (process.env.PORT || 8080));
-app.use(cors());
+app.use(cors({
+  origin: 'https://zoomx-t8bx.onrender.com',
+  methods: ['GET', 'POST']
+}));
 app.use(express.json({limit:"40kb"}))
 app.use(express.urlencoded({limit:"40kb", extended:true}))
 
